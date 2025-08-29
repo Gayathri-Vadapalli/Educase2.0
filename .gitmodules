@@ -1,0 +1,3 @@
+[submodule "educase-react-app"]
+	path = educase-react-app
+	url = https://github.com/Gayathri-Vadapalli/educase-react-app.git
